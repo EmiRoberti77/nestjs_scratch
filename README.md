@@ -1,4 +1,5 @@
 **NESTJS Application**
+![nestjs](https://github.com/user-attachments/assets/7a08ebff-777c-40cd-af2e-b82e88ee8a27)
 
 key dependencies for a nestjs project
 
@@ -11,5 +12,3 @@ key dependencies for a nestjs project
     "typescript": "^5.5.3"
   }
 ```
-
-![nestjs](https://github.com/user-attachments/assets/7a08ebff-777c-40cd-af2e-b82e88ee8a27)
